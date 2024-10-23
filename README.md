@@ -38,7 +38,6 @@ Model Development:
 Employ machine learning algorithms such as Linear Regression, Random Forest, and Gradient Boosting to predict laptop prices.
 Evaluate and choose the model that aligns best with the project's objectives.
 
-
 Real-time Predictions:
 Implement a mechanism for the model to make predictions for new laptops entering the market.
 
