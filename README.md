@@ -22,7 +22,6 @@ Interpretability: It is crucial to make the model interpretable, allowing SmartT
 Project Phases:
 
 Data Exploration and Understanding:
-
 Dive into the dataset to understand the landscape of laptop specifications.
 Visualize trends in laptop prices and identify potential influential features.
 
