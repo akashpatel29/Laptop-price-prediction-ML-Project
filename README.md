@@ -26,6 +26,7 @@ Dive into the dataset to understand the landscape of laptop specifications.
 Visualize trends in laptop prices and identify potential influential features.
 
 Data Preprocessing:
+
 Handle missing values, outliers, and encode categorical variables.
 Ensure the dataset is ready for model training.
 
