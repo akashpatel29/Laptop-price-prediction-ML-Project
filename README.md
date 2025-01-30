@@ -21,7 +21,7 @@ Real-time Prediction:
 The model should have the capability to predict prices for newly released laptops, reflecting the fast-paced nature of the tech industry.
 Interpretability: It is crucial to make the model interpretable, allowing SmartTech Co. to understand the rationale behind pricing predictions.
 
-Project Phases:
+#Project Phases:
 
 Data Exploration and Understanding:
 Dive into the dataset to understand the landscape of laptop specifications.
