@@ -11,7 +11,8 @@ Accurate Pricing: Develop a model that can accurately predict laptop prices base
 Market Positioning: 
 Understand how different features contribute to pricing, enabling SmartTech Co. to strategically position its laptops in the market.
 
-Brand Influence: Assess the impact of brand reputation on pricing, providing insights into brand perception and market demand.
+Brand Influence: 
+Assess the impact of brand reputation on pricing, providing insights into brand perception and market demand.
 
 Key Challenges:
 Diverse Specifications: The dataset encompasses laptops with diverse specifications. Our challenge is to build a model that generalizes well across a wide range of features.
