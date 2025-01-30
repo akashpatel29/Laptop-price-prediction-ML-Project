@@ -8,7 +8,8 @@ SmartTech Co. has partnered with our data science team to develop a robust machi
 Client's Objectives:
 Accurate Pricing: Develop a model that can accurately predict laptop prices based on various features, helping our clients stay competitive in the market.
 
-Market Positioning: Understand how different features contribute to pricing, enabling SmartTech Co. to strategically position its laptops in the market.
+Market Positioning: 
+Understand how different features contribute to pricing, enabling SmartTech Co. to strategically position its laptops in the market.
 
 Brand Influence: Assess the impact of brand reputation on pricing, providing insights into brand perception and market demand.
 
