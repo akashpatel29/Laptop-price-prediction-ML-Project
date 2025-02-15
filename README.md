@@ -56,3 +56,6 @@ Address any questions or concerns and gather feedback for potential model improv
 Expected Outcomes:
 A reliable machine learning model capable of predicting laptop prices with high accuracy.
 Insights into the factors influencing laptop prices, empowering SmartTech Co. in market positioning and strategy.
+
+
+__________________________
