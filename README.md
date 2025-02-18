@@ -59,4 +59,4 @@ Insights into the factors influencing laptop prices, empowering SmartTech Co. in
 
 
                                                             
-                                                      _____________________________________________________
+                                                 _____________________________________________________
