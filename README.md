@@ -58,4 +58,5 @@ A reliable machine learning model capable of predicting laptop prices with high 
 Insights into the factors influencing laptop prices, empowering SmartTech Co. in market positioning and strategy.
 
 
-                                                                     _____________________________________________________
+                                                            
+                                                            _____________________________________________________
